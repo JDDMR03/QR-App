@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TransMetroQR</string>
+    <string name="hi">Bienvenido</string>
+    <string name="gen">Generar</string>
+    <string name="change">Agregar/Cambiar Nombre</string>
+    <string name="qr">Codigo QR</string>
+    <string name="add_name">Ingrese su nombre</string>
+</resources>
